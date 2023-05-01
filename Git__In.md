@@ -61,7 +61,7 @@ git config --global user.email "you@example.com"
 
 7. ## Перемещение между сохранениями 
 
-Тут будет текст
+Тут будет текст bbbbbbbbb
 
 8. ## Игнорирование файлов 
 
