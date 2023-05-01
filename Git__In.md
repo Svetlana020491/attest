@@ -61,7 +61,9 @@ git config --global user.email "you@example.com"
 
 7. ## Перемещение между сохранениями 
 
-Тут будет текст bbbbbbbbb
+
+Команды **git checkout** и **git switch**позволяет перемещаться между ветками. 
+
 
 8. ## Игнорирование файлов 
 
