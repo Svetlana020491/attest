@@ -17,6 +17,15 @@ https://code.visualstudio.com/Download
 Устанавливаем настройки по умолчанию.
 
 3. ## Настройка Git
+
+При первом использовании Git необходимо представиться. Для этого в Терминале вводятся команды: 
+```
+git config --global user.email "you@example.com"
+
+git config --global user.email "you@example.com"
+```
+
+
 4. ## Инициализация репозитория Git
 5. ## Запись изменений в репозитории
 6. ## Просмотр истории коммитов
